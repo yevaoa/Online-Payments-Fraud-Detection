@@ -4,7 +4,7 @@ A machine learning project that detects fraudulent online transactions using a D
 
 ## Dataset
 
-[PaySim](https://www.kaggle.com/datasets/ealaxi/paysim1) is a synthetic dataset of mobile money transactions with about 6.36 million rows. Only about 0.13% of the transactions are fraud, so the data is highly imbalanced.
+[PaySim](https://www.kaggle.com/datasets/ealaxi/paysim1) is a dataset of mobile money transactions with about 6.36 million rows. Only about 0.13% of the transactions are fraud, so the data is highly imbalanced.
 
 | Feature | Description |
 |---|---|
